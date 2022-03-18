@@ -37,3 +37,11 @@ int Multiplication(int a , int b)
 	
 	return resultat;
 }
+
+int factoriel(int nb)
+{
+	int resultat = 1; 
+	while (n > 1)
+	resultat *= n--;
+	
+	return resultat;
